@@ -122,11 +122,17 @@ def mystere(liste1,liste2):
             j += 1
     return liste
 
-print(mystere([2,5,6,8],[1,4,7,8,9]))
+#print(mystere([2,5,6,8],[1,4,7,8,9]))
 
 #exercice 6:
 
 def nomPrenom():
-    nom_prenom = input("entrez")
+    nom_prenom = input("entrez vos nom et prénom séparés par un espace: ")
+    nom = nom_prenom.split(" ")[0]
+    prenom = nom_prenom.split(" ")[1]
+    a = nom[0].upper()
+    b = prenom[0].upper()
+    print(a, ".",b)
 
+nomPrenom()
         
