@@ -4,8 +4,6 @@
 villes = ["Bordeaux","Paris"]
 towns = villes.copy()
 towns.append("Lille")
-#print(villes)
-#print(towns)
 
 
 #exercice 2:
@@ -89,7 +87,7 @@ def listConstruc1(n):
     while i - 1< n:
         listCreated.extend([1,i])
         i += 1
-    return(listCreated)
+    return listCreated
 
 #print(listConstruc1(10))
         
@@ -120,10 +118,6 @@ def mystere(liste1,liste2):
         else:
             liste.append(liste2[j])
             j += 1
-    if i == len(liste1):
-        liste.extend([liste2[k] for k in range(j,len(liste2))])
-    else:
-        liste.extend([liste1[k] for k in range(i,len(liste1))])
     return liste
 
 print(mystere([2,5,6,8],[1,4,7,8,9]))
@@ -131,12 +125,6 @@ print(mystere([2,5,6,8],[1,4,7,8,9]))
 #exercice 6:
 
 def nomPrenom():
-    nom_prenom = input("entrez vos nom et prénom séparés par un espace: ")
-    nom = nom_prenom.split(" ")[0]
-    prenom = nom_prenom.split(" ")[1]
-    a = nom[0].upper()
-    b = prenom[0].upper()
-    print(a, ".",b)
+    nom_prenom = input("entrez")
 
-#nomPrenom()
         
