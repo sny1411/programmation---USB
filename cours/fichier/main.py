@@ -21,7 +21,7 @@ fic.close()
 if fic.closed:
 	print("fichier fermé")
 else:
-	print("fichier ecore ouvert")
+	print("fichier encore ouvert")
 
 
 with open("donnees.txt","r") as fic2: #autre façon d'ouvrir des fichier
@@ -32,6 +32,7 @@ with open("test.txt","w") as test:
 	nbre = 15
 	test.write(str(nbre)) 
 	test.write("\ncoucou, je suis une phrase !") # pour ecrire
+
 
 
 class Player:
