@@ -1,4 +1,3 @@
-# Créé par stuba, le 23/11/2020 en Python 3.7
 
 from PIL import Image
 a="balloon.jpeg"
