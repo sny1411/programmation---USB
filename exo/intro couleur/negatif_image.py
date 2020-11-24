@@ -1,5 +1,5 @@
 from PIL import Image
-a="balloon.jpeg"
+a="paysage2.jpg"
 im=Image.open(a)
 
 def negatifIM(image):
