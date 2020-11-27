@@ -1,6 +1,5 @@
 #coding:utf-8
 
-import pickle
 import tkinter
 import random
 import time
