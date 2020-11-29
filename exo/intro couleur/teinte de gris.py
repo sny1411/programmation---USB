@@ -1,7 +1,7 @@
 #coding:utf-8
 
 from PIL import Image
-a="01.jpg"
+a="paysage2.jpg"
 im=Image.open(a)
 
 def negatifIM(image):
