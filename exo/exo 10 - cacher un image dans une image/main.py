@@ -1,8 +1,8 @@
 import fonction
 from PIL import Image
 
-carteCacher = Image.open("exo\exo 10 - cacher un image dans une image\carte 3.jpg")
-img =Image.open("exo\exo 10 - cacher un image dans une image\paysage.jpg")
+img = Image.open("exo\exo 10 - cacher un image dans une image\paysage.jpg")
+carteCacher =Image.open("exo\exo 10 - cacher un image dans une image\carte 3.jpg")
 
 c,l = img.size
 print(c, " ", l)

@@ -20,7 +20,7 @@ def bitPoidsFort(nbre):
 
 
 def decale(nbreBin):
-    return "0000" +nbreBin[:4] 
+    return "0000" + nbreBin[:4]
 
 def sommeBin(binA, binB,bit=8):
     """fait la somme de deux nombre binaire
