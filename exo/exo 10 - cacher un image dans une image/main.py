@@ -11,6 +11,6 @@ for i in range(c): #on parcours les colonnes
         for j in range(l): #on parcours chaque ligne pour chacune des colonnes
             imgPixel = img.getpixel((i,j))
             cartePixel = carteCacher.getpixel((i,j))
-            pixelMelanger = (fonction.formuleMagique(imgPixel[0],cartePixel[0]),fonction.formuleMagique(imgPixel[1],cartePixel[1]),fonction.formuleMagique(imgPixel[2],cartePixel[2]))
+            pixelMelanger = (fonction.echangeBitFortFaible(imgPixel[0],cartePixel[0]),fonction.echangeBitFortFaible(imgPixel[1],cartePixel[1]),fonction.echangeBitFortFaible(imgPixel[2],cartePixel[2]))
             imageFinal.putpixel((i,j), pixelMelanger)
 imageFinal.show()

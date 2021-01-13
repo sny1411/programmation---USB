@@ -8,13 +8,13 @@ def conversionBinaire(nbre): #fonction repris d'un exercice avant
     while nbre != 0:
         nbreBin = str(nbre % 2) + nbreBin
         nbre = nbre // 2
+    if len(nbreBin) != 8:
+        for i in range(8 - len(nbreBin)):
+            nbreBin = "0" + nbreBin
     return nbreBin
 
 def bitPoidsFort(nbre):
     nbreBin = conversionBinaire(nbre)
-    if len(nbreBin) != 8:
-        for i in range(8 - len(nbreBin)):
-            nbreBin = "0" + nbreBin
     return nbreBin[:4] + "0000"
 
 
@@ -55,8 +55,17 @@ def conversionDecimal(nbreBin):
         i -= 1
     return nbreFinal
 
-def formuleMagique(nbreFort,nbreFaible):
+def echangeBitFortFaible(nbreFort,nbreFaible):
     return conversionDecimal(sommeBin(bitPoidsFort(nbreFort),decale(bitPoidsFort(nbreFaible))))
 
+def reconstitutionImage(nbre):
+    nbre = conversionBinaire(nbre)
+    print(nbre)
+    nbre = nbre[4:] + "0000"
+    print(nbre)
+    nbre = conversionDecimal(nbre)
+    return nbre
+
 if __name__ == "__main__":
-    print(conversionDecimal("10101010"))
+    print(conversionDecimal("11110000"))
+    print(reconstitutionImage(15))
