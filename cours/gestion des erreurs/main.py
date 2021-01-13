@@ -14,7 +14,7 @@ finally:
 	print("FIN DU PROGRAMME...")
 
 nbre1 = 150
-nbre2 = intput("choisir un diviseur")
+nbre2 = input("choisir un diviseur")
 
 try:
 	nbre2 = int(nbre2)
