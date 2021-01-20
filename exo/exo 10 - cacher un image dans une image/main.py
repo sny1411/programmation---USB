@@ -1,5 +1,8 @@
+#coding;utf-8
 import fonction
 from PIL import Image
+import tkinter
+from tkinter.filedialog import *
 
 def cacherImage():
     img = Image.open("exo\exo 10 - cacher un image dans une image\paysage.jpg")
@@ -17,7 +20,9 @@ def cacherImage():
     imageFinal.show()
 
 def retrouverImage():
-    img = Image.open("yes.png")
+    filename = askopenfile(title="Ouvrir votre document",filetypes=[('png','.png'),('all files','.*')])
+    print(filename)
+    img = Image.open(filename)
     c , l = img.size
     imageRetrouver = Image.new('RGB', (c,l))
     for i in range(c):
@@ -26,3 +31,13 @@ def retrouverImage():
             pixelCacher = (fonction.reconstitutionImage(imgPixel[0]),fonction.reconstitutionImage(imgPixel[1]),fonction.reconstitutionImage(imgPixel[2]))
             imageRetrouver.putpixel((i,j), pixelCacher)
     imageRetrouver.show()
+
+fenetre = tkinter.Tk()
+
+fenetre.geometry("300x600")
+fenetre.resizable(width=False,height=False)
+
+buttonRetrouve = tkinter.Button(fenetre,text="retrouver une image",command=retrouverImage)
+buttonRetrouve.pack()
+fenetre.mainloop()
+

@@ -60,9 +60,7 @@ def echangeBitFortFaible(nbreFort,nbreFaible):
 
 def reconstitutionImage(nbre):
     nbre = conversionBinaire(nbre)
-    print(nbre)
     nbre = nbre[4:] + "0000"
-    print(nbre)
     nbre = conversionDecimal(nbre)
     return nbre
 
