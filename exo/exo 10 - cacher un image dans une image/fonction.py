@@ -1,7 +1,7 @@
 #coding:utf-8
 
 def conversionBinaire(nbre): #fonction repris d'un exercice avant
-    """convertie decimal en binaire
+    """convertie decimal en binaire et le met sur 8 bit
     entrées: nbre du type int
     sortie: nbreBin du type string"""
     nbreBin = ''
@@ -14,15 +14,19 @@ def conversionBinaire(nbre): #fonction repris d'un exercice avant
     return nbreBin
 
 def bitPoidsFort(nbre):
+    """convertie nbre en binaire et on garde que les bit de poid fort
+    entrées: nbre de type string
+    sortie: string"""
     nbreBin = conversionBinaire(nbre)
     return nbreBin[:4] + "0000"
 
-
-
 def decale(nbreBin):
+    """decale les bit de poid fort en bit de poid faible
+    entrées: nbreBin de type string
+    sortie: string"""
     return "0000" + nbreBin[:4]
 
-def sommeBin(binA, binB,bit=8):
+def sommeBin(binA, binB,bit=8): #ça aussi c'est pris d'un exo avant x)
     """fait la somme de deux nombre binaire
     entrée: binA et binB de type str et bit de type int
     sortie: result de type str"""
@@ -48,6 +52,9 @@ def sommeBin(binA, binB,bit=8):
     return result
 
 def conversionDecimal(nbreBin):
+    """convertie un nbre binaire en nbre decimal
+    entrées: nbreBin de type string
+    sortie: int"""
     nbreFinal = 0
     i = len(nbreBin) - 1
     for bit in nbreBin:
@@ -56,9 +63,15 @@ def conversionDecimal(nbreBin):
     return nbreFinal
 
 def echangeBitFortFaible(nbreFort,nbreFaible):
+    """utilise les autres fonction du fichier pour cacher les bit de poid fort de nbreFaible dans les bit de poid faible de nbreFort
+    entrées: nbreFort et nbreFaible de type int
+    sortie: int"""
     return conversionDecimal(sommeBin(bitPoidsFort(nbreFort),decale(bitPoidsFort(nbreFaible))))
 
 def reconstitutionImage(nbre):
+    """cherche les bit de poid faible d'un nbre et les met en bit de poid fort
+    entrées: nbre de type int
+    sortie: int"""
     nbre = conversionBinaire(nbre)
     nbre = nbre[4:] + "0000"
     nbre = conversionDecimal(nbre)
