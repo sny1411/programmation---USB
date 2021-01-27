@@ -16,6 +16,11 @@ def index_min(liste,index=0):
 print(index_min(l,0))
 
 def swap(liste, indexUn,indexDeux):
+    """echange une valeur avec une autre dans une liste
+    param liste(list): liste dans laquel on va echanger des valeurs
+    param indexUn(int): index du premier element à echanger
+    param indexDeux(int): index du deuxieme element à echanger
+    sortie: list : la liste apres echange"""
     saveUn = liste[indexUn]
     liste[indexUn] = liste[indexDeux]
     liste[indexDeux] = saveUn
