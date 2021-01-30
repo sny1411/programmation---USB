@@ -1,6 +1,7 @@
 #coding:utf-8
 
 l = ["ruby","python","logo","elan","rust"]
+nbre = ["a","q","c","b","d","i"]
 
 def index_min(liste,index=0):
     """renvoie l'index du plus petit elt de la liste à l'indice index
@@ -32,12 +33,25 @@ def ssort(liste):
     """trie une liste
     param liste(list): liste que l'on veut trier
     sortie: list : la liste triée"""
-    for i in range(len(liste)):
+    for i in range(len(liste) - 1):
         min = index_min(liste,i)
         swap(liste,i,min)
     return liste
 
 print(ssort(l))
 
+def inserer(liste,item): 
+    place = len(liste)-1  #indice de parcours placé à la fin
+    liste.append(item)    #on colle item à la fin
+    while item==0:
+        liste[place], liste[place + 1] = liste[place + 1], liste[place]
+        place = place-1
+
+def trierParInsertion(liste):
+    listeTriee = []
+    for item in liste:
+        inserer(listeTriee,item)
+    return listeTriee
+#JARRIVE PAAAAAS
 
 
