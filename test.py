@@ -64,3 +64,4 @@ def lancer_essais(liste_num,but,nb_essai):
     return "Je n'ai pas trouvé la solution. Le meilleur résultat est", best
 
 lancer_essais([6,2,4,3,7,9],56,50)
+
