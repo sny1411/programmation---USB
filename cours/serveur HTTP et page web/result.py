@@ -8,7 +8,7 @@ form = cgi.FieldStorage()
 if form.getvalue("nom utilisateur"):
 	username = form.getvalue("nom utilisateur")
 else:
-	raise Execption("Pseudo non transmis")
+	raise Exception("Pseudo non transmis")
 
 print("Content-type: text/html; charset=utf-8\n")
 
