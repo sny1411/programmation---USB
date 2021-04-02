@@ -1,0 +1,508 @@
+name;classification;attack;defense;capture_rate;height_m;weight_kg;type
+Abra;Psi Pokémon;20;15;200.0;0.9;1;psychic
+Absol;Disaster Pokémon;150;60;30.0;1.2;3;dark
+Accelgor;Shell Out Pokémon;70;40;75.0;0.8;5;poison
+Aerodactyl;Fossil Pokémon;135;85;45.0;1.8;1;flying
+Aggron;Iron Armor Pokémon;140;230;45.0;2.1;3;rock
+Aipom;Long Tail Pokémon;70;55;45.0;0.8;2;poison
+Alakazam;Psi Pokémon;50;65;50.0;1.5;1;psychic
+Alomomola;Caring Pokémon;75;80;75.0;1.2;5;water
+Altaria;Humming Pokémon;110;110;45.0;1.1;3;flying
+Amaura;Tundra Pokémon;59;50;45.0;1.3;6;ice
+Ambipom;Long Tail Pokémon;100;66;45.0;1.2;4;normal
+Amoonguss;Mushroom Pokémon;85;70;75.0;0.6;5;poison
+Ampharos;Light Pokémon;95;105;45.0;1.4;2;electric
+Anorith;Old Shrimp Pokémon;95;50;45.0;0.7;3;bug
+Araquanid;Water Bubble Pokémon;70;92;100.0;1.8;7;water
+Arcanine;Legendary Pokémon;110;80;75.0;1.9;1;fire
+Archen;First Bird Pokémon;112;45;45.0;0.5;5;flying
+Archeops;First Bird Pokémon;140;65;45.0;1.4;5;flying
+Ariados;Long Leg Pokémon;90;70;90.0;1.1;2;poison
+Armaldo;Plate Pokémon;125;100;45.0;1.5;3;bug
+Aron;Iron Armor Pokémon;70;100;180.0;0.4;3;rock
+Articuno;Freeze Pokémon;85;100;3.0;1.7;1;flying
+Aurorus;Tundra Pokémon;77;72;45.0;2.7;6;ice
+Avalugg;Iceberg Pokémon;117;184;55.0;2.0;6;ice
+Azelf;Willpower Pokémon;125;70;3.0;0.3;4;psychic
+Azumarill;Aquarabbit Pokémon;50;80;75.0;0.8;2;fairy
+Bagon;Rock Head Pokémon;75;60;45.0;0.6;3;dragon
+Baltoy;Clay Doll Pokémon;40;55;255.0;0.5;3;psychic
+Banette;Marionette Pokémon;165;75;45.0;1.1;3;ghost
+Barbaracle;Collective Pokémon;105;115;45.0;1.3;6;water
+Barboach;Whiskers Pokémon;48;43;190.0;0.4;3;ground
+Basculin;Hostile Pokémon;92;65;25.0;1.0;5;water
+Bayleef;Leaf Pokémon;62;80;45.0;1.2;2;grass
+Beartic;Freezing Pokémon;130;80;60.0;2.6;5;ice
+Beautifly;Butterfly Pokémon;70;50;45.0;1.0;3;flying
+Beheeyem;Cerebral Pokémon;75;75;90.0;1.0;5;psychic
+Beldum;Iron Ball Pokémon;55;80;3.0;0.6;3;psychic
+Bewear;Strong Arm Pokémon;125;80;70.0;2.1;7;fighting
+Bidoof;Plump Mouse Pokémon;45;40;255.0;0.5;4;normal
+Binacle;Two-Handed Pokémon;52;67;120.0;0.5;6;water
+Bisharp;Sword Blade Pokémon;125;100;45.0;1.6;5;steel
+Blastoise;Shellfish Pokémon;103;120;45.0;1.6;1;water
+Blaziken;Blaze Pokémon;160;80;45.0;1.9;3;fighting
+Blitzle;Electrified Pokémon;60;32;190.0;0.8;5;electric
+Boldore;Ore Pokémon;105;105;120.0;0.9;5;rock
+Bouffalant;Bash Buffalo Pokémon;110;95;45.0;1.6;5;normal
+Bounsweet;Fruit Pokémon;30;38;235.0;0.3;7;grass
+Braixen;Fox Pokémon;59;58;45.0;1.0;6;fire
+Breloom;Mushroom Pokémon;130;80;90.0;1.2;3;fighting
+Brionne;Pop Star Pokémon;69;69;45.0;0.6;7;water
+Bronzong;Bronze Bell Pokémon;89;116;90.0;1.3;4;psychic
+Budew;Bud Pokémon;30;35;255.0;0.2;4;poison
+Buizel;Sea Weasel Pokémon;65;35;190.0;0.7;4;water
+Burmy;Bagworm Pokémon;29;45;120.0;0.2;4;bug
+Butterfree;Butterfly Pokémon;45;50;45.0;1.1;1;flying
+Buzzwole;Swollen Pokémon;139;139;25.0;2.4;7;fighting
+Camerupt;Eruption Pokémon;120;100;150.0;1.9;3;ground
+Carnivine;Bug Catcher Pokémon;100;72;200.0;1.4;4;grass
+Carvanha;Savage Pokémon;90;20;225.0;0.8;3;dark
+Caterpie;Worm Pokémon;30;35;255.0;0.3;1;bug
+Chandelure;Luring Pokémon;55;90;45.0;1.0;5;fire
+Charizard;Flame Pokémon;104;78;45.0;1.7;1;flying
+Charjabug;Battery Pokémon;82;95;120.0;0.5;7;electric
+Cherrim;Blossom Pokémon;60;70;75.0;0.5;4;grass
+Cherubi;Cherry Pokémon;35;45;190.0;0.4;4;grass
+Chesnaught;Spiny Armor Pokémon;107;122;45.0;1.6;6;fighting
+Chespin;Spiky Nut Pokémon;61;65;45.0;0.4;6;grass
+Chikorita;Leaf Pokémon;49;65;45.0;0.9;2;grass
+Chimchar;Chimp Pokémon;58;44;45.0;0.5;4;fire
+Chimecho;Wind Chime Pokémon;50;80;45.0;0.6;3;psychic
+Chinchou;Angler Pokémon;38;38;190.0;0.5;2;electric
+Chingling;Bell Pokémon;30;50;120.0;0.2;4;psychic
+Cinccino;Scarf Pokémon;95;60;60.0;0.5;5;normal
+Clauncher;Water Gun Pokémon;53;62;225.0;0.5;6;water
+Clawitzer;Howitzer Pokémon;73;88;55.0;1.3;6;water
+Clefable;Fairy Pokémon;70;73;25.0;1.3;1;fairy
+Clefairy;Fairy Pokémon;45;48;150.0;0.6;1;fairy
+Cleffa;Star Shape Pokémon;25;28;150.0;0.3;2;fairy
+Cloyster;Bivalve Pokémon;95;180;60.0;1.5;1;ice
+Cofagrigus;Coffin Pokémon;50;145;90.0;1.7;5;ghost
+Combee;Tiny Bee Pokémon;30;42;120.0;0.3;4;flying
+Combusken;Young Fowl Pokémon;85;60;45.0;0.9;3;fighting
+Comfey;Posy Picker Pokémon;52;90;60.0;0.1;7;fairy
+Conkeldurr;Muscular Pokémon;140;95;45.0;1.4;5;fighting
+Corphish;Ruffian Pokémon;80;65;205.0;0.6;3;water
+Cosmog;Nebula Pokémon;29;31;45.0;0.2;7;psychic
+Cottonee;Cotton Puff Pokémon;27;60;190.0;0.3;5;fairy
+Crabominable;Woolly Crab Pokémon;132;77;60.0;1.7;7;ice
+Crabrawler;Boxing Pokémon;82;57;225.0;0.6;7;fighting
+Cranidos;Head Butt Pokémon;125;40;45.0;0.9;4;rock
+Crawdaunt;Rogue Pokémon;120;85;155.0;1.1;3;dark
+Croagunk;Toxic Mouth Pokémon;61;40;140.0;0.7;4;fighting
+Crobat;Bat Pokémon;90;80;90.0;1.8;2;flying
+Croconaw;Big Jaw Pokémon;80;80;45.0;1.1;2;water
+Crustle;Stone Home Pokémon;105;125;75.0;1.4;5;rock
+Cubone;Lonely Pokémon;50;95;190.0;0.4;1;ghost
+Cutiefly;Bee Fly Pokémon;45;40;190.0;0.1;7;fairy
+Cyndaquil;Fire Mouse Pokémon;52;43;45.0;0.5;2;fire
+Darumaka;Zen Charm Pokémon;90;45;120.0;0.6;5;fire
+Deerling;Season Pokémon;60;50;190.0;0.6;5;grass
+Deino;Irate Pokémon;65;50;45.0;0.8;5;dragon
+Delphox;Fox Pokémon;69;72;45.0;1.5;6;psychic
+Deoxys;DNA Pokémon;95;90;3.0;1.7;3;psychic
+Dewgong;Sea Lion Pokémon;70;80;75.0;1.7;1;ice
+Dialga;Temporal Pokémon;120;120;3.0;5.4;4;dragon
+Ditto;Transform Pokémon;48;48;35.0;0.3;1;normal
+Dodrio;Triple Bird Pokémon;110;70;45.0;1.8;1;flying
+Doduo;Twin Bird Pokémon;85;45;190.0;1.4;1;flying
+Donphan;Armor Pokémon;120;120;60.0;1.1;2;ground
+Doublade;Sword Pokémon;110;150;90.0;0.8;6;ghost
+Dragonite;Dragon Pokémon;134;95;45.0;2.2;1;flying
+Drampa;Placid Pokémon;60;85;70.0;3.0;7;dragon
+Dratini;Dragon Pokémon;64;45;45.0;1.8;1;dragon
+Drifblim;Blimp Pokémon;80;44;60.0;1.2;4;flying
+Drilbur;Mole Pokémon;85;40;120.0;0.3;5;ground
+Druddigon;Cave Pokémon;120;90;45.0;1.6;5;dragon
+Ducklett;Water Bird Pokémon;44;50;190.0;0.5;5;flying
+Dunsparce;Land Snake Pokémon;70;70;190.0;1.5;2;normal
+Durant;Iron Ant Pokémon;109;112;90.0;0.3;5;steel
+Dusclops;Beckon Pokémon;70;130;90.0;1.6;3;ghost
+Dusknoir;Gripper Pokémon;100;135;45.0;2.2;4;ghost
+Duskull;Requiem Pokémon;40;90;190.0;0.8;3;ghost
+Dustox;Poison Moth Pokémon;50;70;45.0;1.2;3;poison
+Eelektrik;EleFish Pokémon;85;70;60.0;1.2;5;electric
+Eevee;Evolution Pokémon;55;50;45.0;0.3;1;normal
+Electabuzz;Electric Pokémon;83;57;45.0;1.1;1;electric
+Electivire;Thunderbolt Pokémon;123;67;30.0;1.8;4;electric
+Electrike;Lightning Pokémon;45;40;120.0;0.6;3;electric
+Electrode;Ball Pokémon;50;70;60.0;1.2;1;electric
+Elekid;Electric Pokémon;63;37;45.0;0.6;2;electric
+Elgyem;Cerebral Pokémon;55;55;255.0;0.5;5;psychic
+Emboar;Mega Fire Pig Pokémon;123;65;45.0;1.6;5;fighting
+Espeon;Sun Pokémon;65;60;45.0;0.9;2;psychic
+Espurr;Restraint Pokémon;48;54;190.0;0.3;6;psychic
+Excadrill;Subterrene Pokémon;135;60;60.0;0.7;5;steel
+Exeggcute;Egg Pokémon;40;80;90.0;0.4;1;psychic
+Exploud;Loud Noise Pokémon;91;63;45.0;1.5;3;normal
+Farfetch'd;Wild Duck Pokémon;90;55;45.0;0.8;1;flying
+Fearow;Beak Pokémon;90;65;90.0;1.2;1;flying
+Feebas;Fish Pokémon;15;20;255.0;0.6;3;water
+Fennekin;Fox Pokémon;45;40;45.0;0.4;6;fire
+Feraligatr;Big Jaw Pokémon;105;100;45.0;2.3;2;water
+Ferroseed;Thorn Seed Pokémon;50;91;255.0;0.6;5;steel
+Finneon;Wing Fish Pokémon;49;56;190.0;0.4;4;water
+Flaaffy;Wool Pokémon;55;55;120.0;0.8;2;electric
+Flabébé;Single Bloom Pokémon;38;39;225.0;0.1;6;fairy
+Fletchling;Tiny Robin Pokémon;50;43;255.0;0.3;6;flying
+Floatzel;Sea Weasel Pokémon;105;55;75.0;1.1;4;water
+Floette;Fairy Pokémon;65;67;120.0;0.2;6;fairy
+Florges;Garden Pokémon;65;68;45.0;1.1;6;fairy
+Flygon;Mystic Pokémon;100;80;45.0;2.0;3;dragon
+Foongus;Mushroom Pokémon;55;45;190.0;0.2;5;poison
+Forretress;Bagworm Pokémon;90;140;75.0;1.2;2;steel
+Fraxure;Axe Jaw Pokémon;117;70;60.0;1.0;5;dragon
+Frillish;Floating Pokémon;40;50;190.0;1.2;5;ghost
+Frogadier;Bubble Frog Pokémon;63;52;45.0;0.6;6;water
+Froslass;Snow Land Pokémon;80;70;75.0;1.3;4;ghost
+Furfrou;Poodle Pokémon;80;60;160.0;1.2;6;normal
+Gabite;Cave Pokémon;90;65;45.0;1.4;4;ground
+Gallade;Blade Pokémon;165;95;45.0;1.6;4;fighting
+Galvantula;EleSpider Pokémon;77;60;75.0;0.8;5;electric
+Garbodor;Trash Heap Pokémon;95;82;60.0;1.9;5;poison
+Garchomp;Mach Pokémon;170;115;45.0;1.9;4;ground
+Gardevoir;Embrace Pokémon;85;65;45.0;1.6;3;fairy
+Gastly;Gas Pokémon;35;30;190.0;1.3;1;poison
+Gastrodon;Sea Slug Pokémon;83;68;75.0;0.9;4;ground
+Genesect;Paleozoic Pokémon;120;95;3.0;1.5;5;steel
+Gengar;Shadow Pokémon;65;80;45.0;1.5;1;poison
+Girafarig;Long Neck Pokémon;80;65;60.0;1.5;2;psychic
+Giratina;Renegade Pokémon;120;100;3.0;4.5;4;dragon
+Glaceon;Fresh Snow Pokémon;60;110;45.0;0.8;4;ice
+Glalie;Face Pokémon;120;80;75.0;1.5;3;ice
+Gligar;Flyscorpion Pokémon;75;105;60.0;1.1;2;flying
+Gliscor;Fang Scorp Pokémon;95;125;30.0;2.0;4;flying
+Gogoat;Mount Pokémon;100;62;45.0;1.7;6;grass
+Golbat;Bat Pokémon;80;70;90.0;1.6;1;flying
+Goldeen;Goldfish Pokémon;67;60;225.0;0.6;1;water
+Golett;Automaton Pokémon;74;50;190.0;1.0;5;ghost
+Golisopod;Hard Scale Pokémon;125;140;45.0;2.0;7;water
+Golurk;Automaton Pokémon;124;80;90.0;2.8;5;ghost
+Goodra;Dragon Pokémon;100;70;45.0;2.0;6;dragon
+Goomy;Soft Tissue Pokémon;50;35;45.0;0.3;6;dragon
+Gorebyss;South Sea Pokémon;84;105;60.0;1.8;3;water
+Gourgeist;Pumpkin Pokémon;100;122;60.0;1.7;6;grass
+Granbull;Fairy Pokémon;120;75;75.0;1.4;2;fairy
+Greninja;Ninja Pokémon;145;67;45.0;1.5;6;dark
+Grotle;Grove Pokémon;89;85;45.0;1.1;4;grass
+Groudon;Continent Pokémon;180;160;3.0;3.5;3;ground
+Grovyle;Wood Gecko Pokémon;65;45;45.0;0.9;3;ghost
+Growlithe;Puppy Pokémon;70;45;190.0;0.7;1;fire
+Grubbin;Larva Pokémon;62;45;255.0;0.4;7;bug
+Grumpig;Manipulate Pokémon;45;65;60.0;0.9;3;psychic
+Gulpin;Stomach Pokémon;43;53;225.0;0.4;3;poison
+Gumshoos;Stakeout Pokémon;110;60;127.0;0.7;7;normal
+Gurdurr;Muscular Pokémon;105;85;90.0;1.2;5;fighting
+Gyarados;Atrocious Pokémon;155;109;45.0;6.5;1;flying
+Hakamo-o;Scaly Pokémon;75;90;45.0;1.2;7;fighting
+Happiny;Playhouse Pokémon;5;5;130.0;0.6;4;normal
+Hawlucha;Wrestling Pokémon;92;75;100.0;0.8;6;flying
+Heatran;Lava Dome Pokémon;90;106;3.0;1.7;4;steel
+Heliolisk;Generator Pokémon;55;52;75.0;1.0;6;normal
+Helioptile;Generator Pokémon;38;33;190.0;0.5;6;normal
+Heracross;Singlehorn Pokémon;185;115;45.0;1.5;2;fighting
+Hippopotas;Hippo Pokémon;72;78;140.0;0.8;4;ground
+Hippowdon;Heavyweight Pokémon;112;118;60.0;2.0;4;ground
+Hitmonchan;Punching Pokémon;105;79;45.0;1.4;1;fighting
+Hitmonlee;Kicking Pokémon;120;53;45.0;1.5;1;rock
+Hitmontop;Handstand Pokémon;95;95;45.0;1.4;2;normal
+Honchkrow;Big Boss Pokémon;125;52;30.0;0.9;4;flying
+Hoothoot;Owl Pokémon;30;30;255.0;0.7;2;flying
+Horsea;Dragon Pokémon;40;70;225.0;0.4;1;water
+Houndoom;Dark Pokémon;90;90;45.0;1.4;2;fire
+Huntail;Deep Sea Pokémon;104;105;60.0;1.7;3;water
+Illumise;Firefly Pokémon;47;75;150.0;0.6;3;bug
+Incineroar;Heel Pokémon;115;90;45.0;1.8;7;dark
+Infernape;Flame Pokémon;104;71;45.0;1.2;4;fighting
+Inkay;Revolving Pokémon;54;53;190.0;0.4;6;psychic
+Jellicent;Floating Pokémon;60;70;60.0;2.2;5;ghost
+Jirachi;Wish Pokémon;100;100;3.0;0.3;3;psychic
+Jolteon;Lightning Pokémon;65;60;45.0;0.8;1;electric
+Joltik;Attaching Pokémon;47;50;190.0;0.1;5;electric
+Jumpluff;Cottonweed Pokémon;55;70;45.0;0.8;2;flying
+Jynx;Humanshape Pokémon;50;35;45.0;1.4;1;psychic
+Kabuto;Shellfish Pokémon;80;90;45.0;0.5;1;water
+Kabutops;Shellfish Pokémon;115;105;45.0;1.3;1;water
+Kadabra;Psi Pokémon;35;30;100.0;1.3;1;ghost
+Kangaskhan;Parent Pokémon;125;100;45.0;2.2;1;normal
+Karrablast;Clamping Pokémon;75;45;200.0;0.5;5;ghost
+Kartana;Drawn Sword Pokémon;181;131;255.0;0.3;7;steel
+Kecleon;Color Swap Pokémon;90;70;200.0;1.0;3;normal
+Kirlia;Emotion Pokémon;35;35;120.0;0.8;3;fairy
+Klink;Gear Pokémon;55;70;130.0;0.3;5;steel
+Koffing;Poison Gas Pokémon;65;95;190.0;0.6;1;poison
+Komala;Drowsing Pokémon;115;65;45.0;0.4;7;normal
+Kommo-o;Scaly Pokémon;110;125;45.0;1.6;7;fighting
+Kricketot;Cricket Pokémon;25;41;255.0;0.3;4;bug
+Krookodile;Intimidation Pokémon;117;80;45.0;1.5;5;dark
+Kyogre;Sea Basin Pokémon;150;90;3.0;4.5;3;water
+Kyurem;Boundary Pokémon;120;90;3.0;3.0;5;ice
+Lairon;Iron Armor Pokémon;90;140;90.0;0.9;3;rock
+Lampent;Lamp Pokémon;40;60;90.0;0.6;5;fire
+Lapras;Transport Pokémon;85;80;45.0;2.5;1;ice
+Larvesta;Torch Pokémon;85;55;45.0;1.1;5;fire
+Latias;Eon Pokémon;100;120;3.0;1.4;3;psychic
+Latios;Eon Pokémon;130;100;3.0;2.0;3;psychic
+Ledian;Five Star Pokémon;35;50;90.0;1.4;2;flying
+Ledyba;Five Star Pokémon;20;30;255.0;1.0;2;flying
+Lickilicky;Licking Pokémon;85;95;30.0;1.7;4;normal
+Lickitung;Licking Pokémon;55;75;45.0;1.2;1;normal
+Lileep;Sea Lily Pokémon;41;77;45.0;1.0;3;grass
+Lillipup;Puppy Pokémon;60;45;255.0;0.4;5;normal
+Litten;Fire Cat Pokémon;65;40;45.0;0.4;7;fire
+Litwick;Candle Pokémon;30;55;190.0;0.3;5;fire
+Lopunny;Rabbit Pokémon;136;94;60.0;1.2;4;normal
+Lotad;Water Weed Pokémon;30;30;255.0;0.5;3;grass
+Loudred;Big Voice Pokémon;71;43;120.0;1.0;3;normal
+Lunala;Moone Pokémon;113;89;45.0;4.0;7;ghost
+Lurantis;Bloom Sickle Pokémon;105;90;75.0;0.9;7;grass
+Luxio;Spark Pokémon;85;49;120.0;0.9;4;electric
+Luxray;Gleam Eyes Pokémon;120;79;45.0;1.4;4;electric
+Machoke;Superpower Pokémon;100;70;90.0;1.5;1;fighting
+Machop;Superpower Pokémon;80;50;180.0;0.8;1;normal
+Magby;Live Coal Pokémon;75;37;45.0;0.7;2;fire
+Magcargo;Lava Pokémon;50;120;75.0;0.8;2;rock
+Magikarp;Fish Pokémon;10;55;255.0;0.9;1;water
+Magmortar;Blast Pokémon;95;67;30.0;1.6;4;fire
+Magnemite;Magnet Pokémon;35;70;190.0;0.3;1;steel
+Magneton;Magnet Pokémon;60;95;60.0;1.0;1;steel
+Makuhita;Guts Pokémon;60;30;180.0;1.0;3;fighting
+Manaphy;Seafaring Pokémon;100;100;3.0;0.3;4;water
+Mandibuzz;Bone Vulture Pokémon;65;105;60.0;1.2;5;flying
+Mankey;Pig Monkey Pokémon;80;35;190.0;0.5;1;rock
+Mantine;Kite Pokémon;40;70;25.0;2.1;2;flying
+Mantyke;Kite Pokémon;20;50;25.0;1.0;4;flying
+Maractus;Cactus Pokémon;86;67;255.0;1.0;5;grass
+Marill;Aquamouse Pokémon;20;50;190.0;0.4;2;fairy
+Marshtomp;Mud Fish Pokémon;85;70;45.0;0.7;3;ground
+Masquerain;Eyeball Pokémon;60;62;75.0;0.8;3;flying
+Medicham;Meditate Pokémon;100;85;90.0;1.3;3;psychic
+Meditite;Meditate Pokémon;40;55;180.0;0.6;3;psychic
+Meganium;Herb Pokémon;82;100;45.0;1.8;2;grass
+Meloetta;Melody Pokémon;128;90;3.0;0.6;5;psychic
+Mesprit;Emotion Pokémon;105;105;3.0;0.3;4;psychic
+Metagross;Iron Leg Pokémon;145;150;3.0;1.6;3;psychic
+Metapod;Cocoon Pokémon;20;55;120.0;0.7;1;bug
+Mew;New Species Pokémon;100;100;45.0;0.4;1;psychic
+Mienfoo;Martial Arts Pokémon;85;50;180.0;0.9;5;fighting
+Milotic;Tender Pokémon;60;79;60.0;6.2;3;water
+Miltank;Milk Cow Pokémon;80;105;45.0;1.2;2;normal
+Mimikyu;Disguise Pokémon;90;80;45.0;0.2;7;fairy
+Minccino;Chinchilla Pokémon;50;40;255.0;0.4;5;normal
+Minun;Cheering Pokémon;40;50;200.0;0.4;3;electric
+Misdreavus;Screech Pokémon;60;60;45.0;0.7;2;ghost
+Mismagius;Magical Pokémon;60;60;45.0;0.9;4;ghost
+Moltres;Flame Pokémon;100;90;3.0;2.0;1;flying
+Monferno;Playful Pokémon;78;52;45.0;0.9;4;fighting
+Morelull;Illuminating Pokémon;35;55;190.0;0.2;7;fairy
+Mr. Mime;Barrier Pokémon;45;65;45.0;1.3;1;fairy
+Mudkip;Mud Fish Pokémon;70;50;45.0;0.4;3;water
+Mudsdale;Draft Horse Pokémon;125;100;60.0;2.5;7;ground
+Munchlax;Big Eater Pokémon;85;40;50.0;0.6;4;normal
+Munna;Dream Eater Pokémon;25;45;190.0;0.6;5;psychic
+Murkrow;Darkness Pokémon;85;42;30.0;0.5;2;flying
+Musharna;Drowsing Pokémon;55;85;75.0;1.1;5;psychic
+Necrozma;Prism Pokémon;107;101;3.0;2.4;7;psychic
+Nidoqueen;Drill Pokémon;92;87;45.0;1.3;1;ground
+Nidoran♀;Poison Pin Pokémon;47;52;235.0;0.4;1;poison
+Nidoran♂;Poison Pin Pokémon;57;40;235.0;0.5;1;poison
+Nidorina;Poison Pin Pokémon;62;67;120.0;0.8;1;poison
+Nidorino;Poison Pin Pokémon;72;57;120.0;0.9;1;poison
+Nihilego;Parasite Pokémon;53;47;45.0;1.2;7;poison
+Noctowl;Owl Pokémon;50;50;90.0;1.6;2;flying
+Noibat;Sound Wave Pokémon;30;35;190.0;0.5;6;dragon
+Nosepass;Compass Pokémon;45;135;255.0;1.0;3;rock
+Numel;Numb Pokémon;60;40;255.0;0.7;3;ground
+Oddish;Weed Pokémon;50;55;255.0;0.5;1;poison
+Omanyte;Spiral Pokémon;40;100;45.0;0.4;1;water
+Omastar;Spiral Pokémon;60;125;45.0;1.0;1;water
+Onix;Rock Snake Pokémon;45;160;45.0;8.8;1;ground
+Oricorio;Dancing Pokémon;70;70;45.0;0.6;7;flying
+Oshawott;Sea Otter Pokémon;55;45;45.0;0.5;5;water
+Pachirisu;EleSquirrel Pokémon;45;70;200.0;0.4;4;electric
+Palkia;Spatial Pokémon;120;100;3.0;4.2;4;dragon
+Palossand;Sand Castle Pokémon;75;110;60.0;1.3;7;ground
+Pancham;Playful Pokémon;82;62;220.0;0.6;6;fighting
+Pangoro;Daunting Pokémon;124;78;65.0;2.1;6;dark
+Pansage;Grass Monkey Pokémon;53;48;190.0;0.6;5;grass
+Pansear;High Temp Pokémon;53;48;190.0;0.6;5;fire
+Parasect;Mushroom Pokémon;95;80;75.0;1.0;1;grass
+Passimian;Teamwork Pokémon;120;90;45.0;2.0;7;fighting
+Patrat;Scout Pokémon;55;39;255.0;0.5;5;normal
+Pelipper;Water Bird Pokémon;50;100;45.0;1.2;3;flying
+Phanpy;Long Nose Pokémon;60;60;120.0;0.5;2;ground
+Phantump;Stump Pokémon;70;48;120.0;0.4;6;grass
+Phione;Sea Drifter Pokémon;80;80;30.0;0.4;4;water
+Pikachu;Mouse Pokémon;55;40;190.0;0.4;1;electric
+Pikipek;Woodpecker Pokémon;75;30;255.0;0.3;7;flying
+Piloswine;Swine Pokémon;100;80;75.0;1.1;2;ground
+Pineco;Bagworm Pokémon;65;90;190.0;0.6;2;bug
+Pinsir;Stagbeetle Pokémon;155;120;45.0;1.5;1;bug
+Politoed;Frog Pokémon;75;75;45.0;1.1;2;water
+Poliwag;Tadpole Pokémon;50;40;255.0;0.6;1;water
+Poliwhirl;Tadpole Pokémon;65;65;120.0;1.0;1;water
+Ponyta;Fire Horse Pokémon;85;55;190.0;1.0;1;fire
+Poochyena;Bite Pokémon;55;35;255.0;0.5;3;dark
+Popplio;Sea Lion Pokémon;54;54;45.0;0.4;7;water
+Porygon-Z;Virtual Pokémon;80;70;30.0;0.9;4;normal
+Porygon2;Virtual Pokémon;80;90;45.0;0.6;2;normal
+Probopass;Compass Pokémon;55;145;60.0;1.4;4;steel
+Psyduck;Duck Pokémon;52;48;190.0;0.8;1;water
+Purrloin;Devious Pokémon;50;37;255.0;0.4;5;dark
+Purugly;Tiger Cat Pokémon;82;64;75.0;1.0;4;normal
+Pyukumuku;Sea Cucumber Pokémon;60;130;60.0;0.3;7;water
+Quagsire;Water Fish Pokémon;85;85;90.0;1.4;2;ground
+Quilava;Volcano Pokémon;64;58;45.0;0.9;2;fire
+Quilladin;Spiny Armor Pokémon;78;95;45.0;0.7;6;grass
+Ralts;Feeling Pokémon;25;25;235.0;0.4;3;fairy
+Rayquaza;Sky High Pokémon;180;100;45.0;7.0;3;flying
+Regice;Iceberg Pokémon;50;100;3.0;1.8;3;ice
+Regigigas;Colossal Pokémon;160;110;3.0;3.7;4;normal
+Remoraid;Jet Pokémon;65;35;190.0;0.6;2;water
+Reshiram;Vast White Pokémon;120;100;3.0;3.2;5;fire
+Rhydon;Drill Pokémon;130;120;60.0;1.9;1;rock
+Ribombee;Bee Fly Pokémon;55;60;75.0;0.2;7;fairy
+Riolu;Emanation Pokémon;70;40;75.0;0.7;4;fighting
+Roggenrola;Mantle Pokémon;75;85;255.0;0.4;5;rock
+Roselia;Thorn Pokémon;60;45;150.0;0.3;3;poison
+Roserade;Bouquet Pokémon;70;65;75.0;0.9;4;poison
+Rotom;Plasma Pokémon;65;107;45.0;0.3;4;ghost
+Rowlet;Grass Quill Pokémon;55;55;45.0;0.3;7;flying
+Rufflet;Eaglet Pokémon;83;50;190.0;0.5;5;flying
+Samurott;Formidable Pokémon;100;85;45.0;1.5;5;water
+Sandile;Desert Croc Pokémon;72;35;180.0;0.7;5;dark
+Sawsbuck;Season Pokémon;100;70;75.0;1.9;5;grass
+Scrafty;Hoodlum Pokémon;90;115;90.0;1.1;5;fighting
+Scraggy;Shedding Pokémon;75;70;180.0;0.6;5;fighting
+Scyther;Mantis Pokémon;110;80;45.0;1.5;1;flying
+Seaking;Goldfish Pokémon;92;65;60.0;1.3;1;water
+Seismitoad;Vibration Pokémon;95;75;45.0;1.5;5;ground
+Sentret;Scout Pokémon;46;34;255.0;0.8;2;normal
+Servine;Grass Snake Pokémon;60;75;45.0;0.8;5;grass
+Sewaddle;Sewing Pokémon;53;70;255.0;0.3;5;grass
+Shaymin;Gratitude Pokémon;103;75;45.0;0.2;4;grass
+Shedinja;Shed Pokémon;90;45;45.0;0.8;3;ghost
+Shelgon;Endurance Pokémon;95;100;45.0;1.1;3;dark
+Shelmet;Snail Pokémon;40;85;200.0;0.4;5;bug
+Shiftry;Wickid Pokémon;100;60;45.0;1.3;3;dark
+Shiinotic;Illuminating Pokémon;45;80;75.0;1.0;7;fairy
+Shroomish;Mushroom Pokémon;40;60;255.0;0.4;3;grass
+Shuckle;Mold Pokémon;10;230;190.0;0.6;2;rock
+Shuppet;Puppet Pokémon;75;35;225.0;0.6;3;ghost
+Silcoon;Cocoon Pokémon;35;55;120.0;0.6;3;normal
+Silvally;Synthetic Pokémon;95;95;3.0;2.3;7;normal
+Simisear;Ember Pokémon;98;63;75.0;1.0;5;fire
+Skarmory;Armor Bird Pokémon;80;140;25.0;1.7;2;flying
+Skiddo;Mount Pokémon;65;48;200.0;0.9;6;grass
+Skitty;Kitten Pokémon;45;45;255.0;0.6;3;normal
+Skuntank;Skunk Pokémon;93;67;60.0;1.0;4;dark
+Slaking;Lazy Pokémon;160;100;45.0;2.0;3;normal
+Slakoth;Slacker Pokémon;60;60;255.0;0.8;3;normal
+Slowbro;Hermit Crab Pokémon;75;180;75.0;1.6;1;psychic
+Slowpoke;Dopey Pokémon;65;65;190.0;1.2;1;psychic
+Slugma;Lava Pokémon;40;40;190.0;0.7;2;fire
+Smoochum;Kiss Pokémon;30;15;45.0;0.4;2;psychic
+Snivy;Grass Snake Pokémon;45;55;45.0;0.6;5;grass
+Snorunt;Snow Hat Pokémon;50;50;190.0;0.7;3;ice
+Snubbull;Fairy Pokémon;80;50;190.0;0.6;2;fairy
+Solosis;Cell Pokémon;30;40;200.0;0.3;5;psychic
+Spearow;Tiny Bird Pokémon;60;30;255.0;0.3;1;flying
+Spewpa;Scatterdust Pokémon;22;60;120.0;0.3;6;bug
+Spheal;Clap Pokémon;40;50;255.0;0.8;3;water
+Spinarak;String Spit Pokémon;60;40;255.0;0.5;2;poison
+Spinda;Spot Panda Pokémon;60;60;255.0;1.1;3;normal
+Spiritomb;Forbidden Pokémon;92;108;100.0;1.0;4;dark
+Spoink;Bounce Pokémon;25;35;255.0;0.7;3;psychic
+Spritzee;Perfume Pokémon;52;60;200.0;0.2;6;fairy
+Squirtle;Tiny Turtle Pokémon;48;65;45.0;0.5;1;water
+Stantler;Big Horn Pokémon;95;62;45.0;1.4;2;normal
+Staraptor;Predator Pokémon;120;70;45.0;1.2;4;flying
+Staravia;Starling Pokémon;75;50;120.0;0.6;4;flying
+Starly;Starling Pokémon;55;30;255.0;0.3;4;flying
+Starmie;Mysterious Pokémon;75;85;60.0;1.1;1;psychic
+Steelix;Iron Snake Pokémon;125;230;25.0;9.2;2;ground
+Steenee;Fruit Pokémon;40;48;120.0;0.7;7;grass
+Stufful;Flailing Pokémon;75;50;140.0;0.5;7;fighting
+Stunfisk;Trap Pokémon;66;84;75.0;0.7;5;electric
+Stunky;Skunk Pokémon;63;47;225.0;0.4;4;dark
+Suicune;Aurora Pokémon;75;115;3.0;2.0;2;water
+Sunkern;Seed Pokémon;30;30;235.0;0.3;2;grass
+Swablu;Cotton Bird Pokémon;40;60;255.0;0.4;3;flying
+Swanna;White Bird Pokémon;87;63;45.0;1.3;5;flying
+Swellow;Swallow Pokémon;85;60;45.0;0.7;3;flying
+Swinub;Pig Pokémon;50;40;225.0;0.4;2;ground
+Swirlix;Cotton Candy Pokémon;48;66;200.0;0.4;6;fairy
+Swoobat;Courting Pokémon;57;55;45.0;0.9;5;flying
+Sylveon;Intertwining Pokémon;65;65;45.0;1.0;6;fairy
+Taillow;TinySwallow Pokémon;55;30;200.0;0.3;3;flying
+Talonflame;Scorching Pokémon;81;71;45.0;1.2;6;flying
+Tangela;Vine Pokémon;55;115;45.0;1.0;1;grass
+Tangrowth;Vine Pokémon;100;125;30.0;2.0;4;grass
+Tapu Bulu;Land Spirit Pokémon;130;115;3.0;1.9;7;fairy
+Tapu Lele;Land Spirit Pokémon;85;75;3.0;1.2;7;fairy
+Tauros;Wild Bull Pokémon;100;95;45.0;1.4;1;normal
+Teddiursa;Little Bear Pokémon;80;50;120.0;0.6;2;fairy
+Tentacool;Jellyfish Pokémon;40;35;190.0;0.9;1;poison
+Tentacruel;Jellyfish Pokémon;70;65;60.0;1.6;1;poison
+Terrakion;Cavern Pokémon;129;90;3.0;1.9;5;fighting
+Togedemaru;Roly-Poly Pokémon;98;63;180.0;0.3;7;steel
+Togepi;Spike Ball Pokémon;20;65;190.0;0.3;2;fairy
+Togetic;Happiness Pokémon;40;85;75.0;0.6;2;flying
+Torchic;Chick Pokémon;60;40;45.0;0.4;3;fire
+Torkoal;Coal Pokémon;85;140;90.0;0.5;3;fairy
+Toucannon;Cannon Pokémon;120;75;45.0;1.1;7;flying
+Toxicroak;Toxic Mouth Pokémon;106;65;75.0;1.3;4;fighting
+Tranquill;Wild Pigeon Pokémon;77;62;120.0;0.6;5;flying
+Treecko;Wood Gecko Pokémon;45;35;45.0;0.5;3;grass
+Trevenant;Elder Tree Pokémon;110;76;60.0;1.5;6;grass
+Trumbeak;Bugle Beak Pokémon;85;50;120.0;0.6;7;flying
+Tsareena;Fruit Pokémon;120;98;45.0;1.2;7;grass
+Turtonator;Blast Turtle Pokémon;78;135;70.0;2.0;7;dragon
+Tynamo;EleFish Pokémon;55;40;190.0;0.2;5;electric
+Type: Null;Synthetic Pokémon;95;95;3.0;1.9;7;normal
+Typhlosion;Volcano Pokémon;84;78;45.0;1.7;2;fire
+Tyrantrum;Despot Pokémon;121;119;45.0;2.5;6;dragon
+Tyrunt;Royal Heir Pokémon;89;77;45.0;0.8;6;dragon
+Umbreon;Moonlight Pokémon;65;110;45.0;1.0;2;dark
+Unfezant;Proud Pokémon;115;80;45.0;1.2;5;flying
+Unown;Symbol Pokémon;72;48;225.0;0.5;2;psychic
+Ursaring;Hibernator Pokémon;130;75;60.0;1.8;2;normal
+Uxie;Knowledge Pokémon;75;130;3.0;0.3;4;psychic
+Vanillish;Icy Snow Pokémon;65;65;120.0;1.1;5;ice
+Vanillite;Fresh Snow Pokémon;50;50;255.0;0.4;5;ice
+Vanilluxe;Snowstorm Pokémon;95;85;45.0;1.3;5;ice
+Venipede;Centipede Pokémon;45;59;255.0;0.4;5;poison
+Venomoth;Poison Moth Pokémon;65;60;75.0;1.5;1;poison
+Venonat;Insect Pokémon;55;50;190.0;1.0;1;poison
+Vibrava;Vibration Pokémon;70;50;120.0;1.1;3;dragon
+Victreebel;Flycatcher Pokémon;105;65;45.0;1.7;1;poison
+Vikavolt;Stag Beetle Pokémon;70;90;45.0;1.5;7;electric
+Vileplume;Flower Pokémon;80;85;45.0;1.2;1;poison
+Virizion;Grassland Pokémon;90;72;3.0;2.0;5;fighting
+Volcarona;Sun Pokémon;60;65;15.0;1.6;5;fire
+Voltorb;Ball Pokémon;30;50;190.0;0.5;1;electric
+Vullaby;Diapered Pokémon;55;75;190.0;0.5;5;flying
+Wailmer;Ball Whale Pokémon;70;35;125.0;2.0;3;water
+Walrein;Ice Break Pokémon;80;90;45.0;1.4;3;water
+Wartortle;Turtle Pokémon;63;80;45.0;1.0;1;water
+Weepinbell;Flycatcher Pokémon;90;50;120.0;1.0;1;poison
+Weezing;Poison Gas Pokémon;90;120;60.0;1.2;1;poison
+Whismur;Whisper Pokémon;51;23;190.0;0.6;3;normal
+Wigglytuff;Balloon Pokémon;70;45;50.0;1.0;1;fairy
+Wimpod;Turn Tail Pokémon;35;40;90.0;0.5;7;water
+Wobbuffet;Patient Pokémon;33;58;45.0;1.3;2;psychic
+Wooper;Water Fish Pokémon;45;45;255.0;0.4;2;ground
+Wormadam;Bagworm Pokémon;69;95;45.0;0.5;4;grass
+Wynaut;Bright Pokémon;23;48;125.0;0.6;3;psychic
+Xatu;Mystic Pokémon;75;70;75.0;1.5;2;flying
+Xurkitree;Glowing Pokémon;89;71;30.0;3.8;7;electric
+Yanmega;Ogre Darner Pokémon;76;86;30.0;1.9;4;flying
+Yungoos;Loitering Pokémon;70;30;255.0;0.4;7;normal
+Zangoose;Cat Ferret Pokémon;115;60;90.0;1.3;3;normal
+Zebstrika;Thunderbolt Pokémon;100;63;75.0;1.6;5;electric
+Zekrom;Deep Black Pokémon;150;120;3.0;2.9;5;electric
+Zoroark;Illusion Fox Pokémon;105;60;45.0;1.6;5;dark
+Zorua;Tricky Fox Pokémon;65;40;75.0;0.7;5;dark
+Zubat;Bat Pokémon;45;35;255.0;0.8;1;flying
+Zweilous;Hostile Pokémon;85;70;45.0;1.4;5;dragon

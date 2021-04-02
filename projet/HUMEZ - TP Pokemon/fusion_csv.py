@@ -66,13 +66,15 @@ print(len(objets_pokemon_2_sans_doublons))
 
 fichier = open("pokemon_stats_2.csv","a",newline='',encoding='utf-8')
 ma_table =csv.writer(fichier,delimiter=';')
-ma_table.writerow(descripteurs_pokemon_2_a)
-ma_table.writerows(objets_pokemon_2_sans_doublons)
+#ma_table.writerow(descripteurs_pokemon_2_a)
+#ma_table.writerows(objets_pokemon_2_sans_doublons)
 fichier.close()
 
 # --- PARTIE 6 ---
 
 # QUESTION 1
+
+
 
 
 

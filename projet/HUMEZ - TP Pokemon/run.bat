@@ -1,2 +1,2 @@
-python table_csv.py
+python partie6.py
 PAUSE
