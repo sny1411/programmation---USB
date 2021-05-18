@@ -51,10 +51,6 @@ def prochesIndices(liste1,liste2):
     return lProcheVoisins
         
 
-import itertools
-import operator
-
-
 #print(prochesIndices(prochesVoisins(L,3.0,3),L))
 #print(prochesIndices(prochesVoisins(L,3.0,5),L))
 
