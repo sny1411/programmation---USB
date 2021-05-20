@@ -38,3 +38,11 @@ for k,v in dico.items():
 
 dico2 = dico.copy()
 
+# nouveauté 3.9 :  merge dictionnaires (opérateur | )
+dictA = {'a':'1','b':'2','c':'3'}
+dictB = {'b':'1','c':'2','d':'3'}
+
+print(dictA | dictB) # les deux dico on été mergé
+
+
+
